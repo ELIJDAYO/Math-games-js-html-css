@@ -162,6 +162,6 @@ html{
     left: 45px;
 /*    gameover appear on top of other elements*/
     z-index: 2;
-/*    display: none;*/
+    display: none;
     
 }
